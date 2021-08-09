@@ -17,25 +17,23 @@ written by:
 
 <b>Motivation model of SORP</b>
 
-
-
-<b>SOA roles</b>
-
-
+![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Motivation%20viewpoint%20(SOA%20paper).jpg)
 
 <b>Collaboration Viewpoint</b>
 
-
+![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Collaboration%20viewpoint%20(SOA%20paper).jpg)
 
 <b>Sales Application Usage Viewpint</b>
 
-
+![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Sales%20-%20app%20usage%20(WO%20Affiliate)%20SOA%20Paper.jpg)
 
 <b>Funding Application Usage Viewpoint</b>
 
-
+![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Lending%20-%20app%20usage%20(SOA).jpg.jpg)
 
 <b>Promotion Application Usage Viewpoint</b>
+
+![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Promotion%20-%20app%20usage%20(SOA%20Paper).jpg)
 
 # Prototype Links
 
