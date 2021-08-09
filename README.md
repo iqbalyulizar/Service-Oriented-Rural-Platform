@@ -43,38 +43,47 @@ written by:
 
 https://ruralportal100-sandbox.mxapps.io
 
-[Role (username/password)]:
+Role (username/password):
+<br>
 Rural Seller (talaga/123)
+<br>
 Rural Seller (karamatwangi/123)
+<br>
 Supplier (supplier1/123)
 
 <b>TokoMart (Retail Marketplace)</b>
 
 https://tokomarkt-sandbox.mxapps.io
 
-[Role (username/password)]:
+Role (username/password):
+<br>
 Rural Seller (similar to the Rural Seller account in Rural Platform if it has been synched)
+<br>
 Regular Seller (lapak/123)
 
 <b>FarmHub (Agribusiness Marketplace)</b>
 
 https://farmhub100-sandbox.mxapps.io
 
-[Role (username/password)]:
+Role (username/password):
+<br>
 Rural Seller (similar to the Rural Seller account in Rural Platform if it has been synched)
 
 <b>TravelAdvisor (Travel Marketplace)</b>
 
 https://ruraltourismplatform-sandbox.mxapps.io
 
-[Role (username/password)]:
+Role (username/password):
+<br>
 Rural Seller (similar to the Rural Seller account in Rural Platform if it has been synched)
 
 <b>iLend (Funding Marketplace)</b>
 
 https://app-funding-sandbox.mxapps.io
 
-[Role (username/password)]:
+Role (username/password):
+<br>
 Borrower (similar to the Rural Seller account in Rural Platform if it has been synched)
+<br>
 Lender (orangbiasa/123)
 
