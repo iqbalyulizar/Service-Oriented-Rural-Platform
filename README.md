@@ -9,13 +9,15 @@ written by:
 - Iqbal Yulizar Mukti <sup>a</sup>
 - Danniar Reza Firdausy <sup>a</sup>
 - Maria-Eugenia Iacob <sup>a</sup>
-- Marten van Sinderen <sup>a</sup>
-- Yudha Prambudia <sup>b</sup>
+- Marten van Sinderen <sup>b</sup>
+- Yudha Prambudia <sup>c</sup>
 - Adina Aldea <sup>a</sup>
 
-<sup>a</sup> University of Twente
+<sup>a</sup> Department of Industrial Engineering and Business Information Systems, University of Twente
 <br>
-<sup>b</sup> Telkom University
+<sup>b</sup> Department of Services and CyberSecurity, University of Twente
+<br>
+<sup>c</sup> School of Industrial and Systems Engineering, Telkom University
 
 # ArchiMate Viewpoints
 
