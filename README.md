@@ -6,12 +6,16 @@ This is a repository acting as a viewer for the paper titled:
 
 written by:
 
-- Iqbal Yulizar Mukti
-- Danniar Reza Firdausy
-- Maria-Eugenia Iacob
-- Marten van Sinderen
-- Yudha Prambudia
-- Adina Aldea
+- Iqbal Yulizar Mukti <sup>a</sup>
+- Danniar Reza Firdausy <sup>a</sup>
+- Maria-Eugenia Iacob <sup>a</sup>
+- Marten van Sinderen <sup>a</sup>
+- Yudha Prambudia <sup>b</sup>
+- Adina Aldea <sup>a</sup>
+
+<sup>a</sup> University of Twente
+<br>
+<sup>b</sup> Telkom University
 
 # ArchiMate Viewpoints
 
