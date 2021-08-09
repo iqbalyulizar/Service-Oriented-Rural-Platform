@@ -4,7 +4,7 @@ This is a repository acting as a viewer for the paper titled:
 
 <b>Architecting a Service-Oriented Rural Platform</b>
 <br>
-Improving rural economic climate through participation in the digital business ecosystem
+Improving rural economic climate through participation in the digital business ecosystem.
 
 written by:
 
