@@ -29,7 +29,7 @@ written by:
 
 <b>Funding Application Usage Viewpoint</b>
 
-![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Lending%20-%20app%20usage%20(SOA).jpg.jpg)
+![github-large](https://github.com/danniarreza/Service-Oriented-Rural-Platform/blob/main/Lending%20-%20app%20usage%20(SOA).jpg)
 
 <b>Promotion Application Usage Viewpoint</b>
 
